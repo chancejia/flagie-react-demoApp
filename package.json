@@ -2,7 +2,6 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Chance",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
